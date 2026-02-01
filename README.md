@@ -2,11 +2,11 @@
 💻 ML | DL |GEN AI | 🚀 Learning every day
 
 ### 🛠 Tech
-- Python, Flask
+- Python, Flask,c++
 
 
 ### 📌 Currently
-- Building a habit-tracking app
-- Practicing system design
+- Grinding DSA
+- Learning New Tool
 
-📫 Reach me: alex.dev@gmail.com
+📫 Reach me: sauravku950@gmail.com
